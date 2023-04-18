@@ -1,0 +1,8 @@
+Conexion al server
+ssh alumno@190.56.14.34 -p 2222
+Usuario: alumno
+Contraseña: Alumno123
+
+Conexion a MYSQL
+Usuario alumno MySQL 
+Contraseña: “Alumno2023.”
